@@ -119,25 +119,4 @@
 
 
 
-	<!-- <!DOCTYPE html>
-	<html>
-	<head>
-		<title>Sign In</title>
-	</head>
-	<body>
 	
-
-			<form action= "<?php echo $_SERVER['PHP_SELF'] ?> " method ="POST">
-				
-				
-				USERNAME: <input type="text" name="username">
-				PASSWORD: <input type="password"             name="password">
-				<input type="submit" name="submit" value="submit">
-				
-				
-			</form>
-
-			
-
-	</body>
-	</html> -->
